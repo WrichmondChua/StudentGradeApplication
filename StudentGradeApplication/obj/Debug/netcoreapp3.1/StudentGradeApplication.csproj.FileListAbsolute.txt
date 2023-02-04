@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.exe
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.deps.json
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.runtimeconfig.json
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.dll
+C:\Users\ADMIN\source\repos\StudentGradeApplication\bin\Debug\netcoreapp3.1\StudentGradeApplication.pdb
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.frmStudentGradeProgram.resources
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.dll
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.pdb
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\StudentGradeApplication\obj\Debug\netcoreapp3.1\StudentGradeApplication.Properties.Resources.resources
